@@ -1,4 +1,8 @@
-# Introduction
+---
+description: A short description of this section
+---
+
+# Architecture
 
 ## Getting Super Powers
 

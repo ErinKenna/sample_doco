@@ -1,4 +1,4 @@
-# Introduction
+# Using this guide
 
 ## Getting Super Powers
 
